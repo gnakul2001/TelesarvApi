@@ -15,7 +15,7 @@ TeleSarv - Bulk SMS Application For Markting
 ### Installing
 Via Composer
 ```
-composer require gnakul2001/TelesarvApi 
+composer require gnakul2001/telesarv-api
 ```
 
 And Via Bash
