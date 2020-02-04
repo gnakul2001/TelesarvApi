@@ -178,7 +178,7 @@ TeleSarv API return response with `json` format, like:
 | `105` | Insufficient balance |
 | `106` | Invalid Sender ID |
 | `107` | Invalid SMS Type |
-| `108` | SMS Gateway not active |
+| `108` | SMS Type Invalid |
 | `109` | Invalid Schedule Time |
 | `110` | Media url required |
 | `111` | SMS contain spam word. Wait for approval |
