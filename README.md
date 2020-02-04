@@ -77,10 +77,6 @@ $sms = 'test message from TeleSarv';
 ```php
 $unicode = '1'; //For Unicode message
 ```
-// Voice SMS
-```php
-$voice = '1'; //For voice message
-```
 // MMS SMS
 ```php
 $mms = '1'; //For mms message
