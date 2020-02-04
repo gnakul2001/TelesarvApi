@@ -1,0 +1,23 @@
+{
+  "name": "gnakul2001/TelesarvApi",
+  "description": "TeleSarv API is build for TeleSarv - Bulk SMS Application For Marketing",
+  "type": "library",
+  "license": "MIT",
+  "version": "2.7.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Nakul Gupta",
+      "email": "gnakul2001@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "ext-curl": "*"
+  }
+}
